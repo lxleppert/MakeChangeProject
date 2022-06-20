@@ -55,7 +55,7 @@ Change Amount   : $      78.67
 ```
 
 ## Technologies Used
-- Java 8
+- Java 8 (1.8.0_333)
 - Eclipse 2022-03 (4.23.0) AArch64
 - MacOS 12.4 M1
 
