@@ -56,8 +56,10 @@ Change Amount   : $      78.67
 
 ## Technologies Used
 - Java 8
-- Eclipse on MacOS
+- Eclipse 2022-03 (4.23.0) AArch64
+- MacOS 12.4 M1
 
 ## What I Learned
+- Double value manipulation with casting
+- Floating point variables are annoying to work with for monetary values
 - Eclipse refactoring
-- Floating point variable precision is difficult with financial numbers
